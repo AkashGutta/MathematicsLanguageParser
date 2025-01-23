@@ -1,0 +1,6 @@
+Lexer Operations Log:
+Token: NUMBER, Value: 6
+Token: STAR, Value: *
+Token: NUMBER, Value: 4
+Token: MINUS, Value: -
+Token: NUMBER, Value: 3
